@@ -1,3 +1,5 @@
 make dir git_study
 
 test  git revert
+
+test reset git
